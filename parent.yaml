@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://ef5bb340be45c72ee71fb88713eb3b76-3000.maxwell.assessments.scaler.com/john_doe/app-of-apps-repo.git
+    repoURL: https://github.com/argoproj/argocd-example-apps.git
     targetRevision: HEAD
     path: child  # folder where child apps YAMLs are
     directory:
